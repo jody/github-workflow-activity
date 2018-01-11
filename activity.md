@@ -2,7 +2,7 @@
 
 ## Form teams
 
-Form a of 2 or 3 person team. It's better to work with someone who is using the same operating system as you.
+Form a 2 or 3 person team. It's better to work with someone who is using the same operating system as you.
 
 Each team member will sometimes be a maintainer and sometimes a contributor. Rotate roles as necessary to ensure everyone in your team gets a chance to experience each role.
 
